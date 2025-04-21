@@ -7,6 +7,6 @@
 - **Power BI**
 - **Ferramentas:** Pandas, Numpy, Matplotlib, Scikit-learn, Git, Jupyter
 
-## 📂 Projetos em Destaque
+## Projetos em Destaque
 
 - WIP
